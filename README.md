@@ -3,12 +3,21 @@ End-to-end financial analytics project integrating revenue forecasting ,churn pr
 
 
 data-analysis
+
 machine-learning
+
 time-series
+
 arima
+
 churn-prediction
+
 financial-analysis
+
 python
+
 retail-analytics
+
 business-analytics
+
 forecasting
